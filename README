@@ -1,0 +1,7 @@
+Beck Schemenauer (bschemen)
+
+Pressing ^C works as intended but it does not create
+a new line. I tried several things to fix it, but they
+all created new problems, so I figured it would be a
+better use of my time to work on something else, and
+leave ^C mostly working.
